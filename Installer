@@ -3,7 +3,7 @@ aiofiles
 asyncio
 ffmpeg-python
 pillow
-Pyrogram==2.0.59
+pyrogram==1.4.16
 py-tgcalls
 wget
 python-dotenv
